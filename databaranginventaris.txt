@@ -1,0 +1,13 @@
+
+tanggal : 13 Maret 2023
+Jenis Barang : Tarpal
+Jumlah : 1 Buah
+No Inventaris : IB01
+Kondisi Barang : Baik
+Keterangan : dari anggota HMP-Ti
+tanggal : 24 Maret 2023
+Jenis Barang : Salon
+Jumlah : 1 Buah
+No Inventaris : IB02
+Kondisi Barang : rusak
+Keterangan : Dari rektorat
